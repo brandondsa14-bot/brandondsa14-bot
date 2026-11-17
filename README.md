@@ -14,7 +14,7 @@
 
   <p>
     Currently building <b>PATHway Toronto</b>, an indoor navigation
-    application, and <b>Verge</b>, an AI-assisted productivity platform.
+    application for Navigating Toronto's PathSystem, and <b>Verge</b>, an AI-assisted productivity platform for students.
   </p>
 
 </div>
