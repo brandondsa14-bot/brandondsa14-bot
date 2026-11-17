@@ -1,16 +1,20 @@
-## Hi there 👋
 
-<!--
-**brandondsa14-bot/brandondsa14-bot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Titan+One&size=44&duration=2800&pause=1500&color=40F7C5&center=true&vCenter=true&width=850&height=110&lines=Hi+Recruiter%27s%2C;I%27m+Brandon+D%27sa%21" alt="Animated introduction" />
+  </a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <h3>🎓 4th-Year Computer Science Student @ Ontario Tech University</h3>
+
+  <p>
+    Passionate about developing intuitive, real-world software
+    across web and mobile platforms.
+  </p>
+
+  <p>
+    Currently building <b>PATHway Toronto</b>, an indoor navigation
+    application, and <b>Verge</b>, an AI-assisted productivity platform.
+  </p>
+
+</div>
